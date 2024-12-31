@@ -13,7 +13,7 @@ To use this project you have to have a Storyblok account. If you don't have one 
 ### 1. Clone the repo
 
 ```sh
-  $ git clone https://github.com/storyblok/next.js-ultimate-tutorial
+  $ git clone https://github.com/storyblok/building-email-templates-tutorial
 ```
 
 ### 2. Install all dependecies 
@@ -22,7 +22,7 @@ $  yarn # or npm install
 ```
 
 ### 3. Adding the Access token
-Create a new empty Space and exchange the preview token with your own in ```app/layout.js``` as well as in ```api/send/route.js```
+Create a new empty Space and exchange the preview token with your own in ```app/layout.js``` as well as in ```api/send/route.js```.
 
 ```js
 storyblokInit({
