@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is no longer maintained.
+
 ## Storyblok React Email Tutorial
 
 This repository is alinged with the tutorial to [build email templates using Stortblok and Next.js](https://www.storyblok.com/tp/building-email-templates-with-storyblok).
